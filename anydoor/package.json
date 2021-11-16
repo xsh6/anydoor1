@@ -1,0 +1,31 @@
+{
+  "name": "anydoor",
+  "version": "0.1.0",
+  "description": "Tiny NodeJS Static Web Server",
+  "main": "src/app.js",
+    "bin":{
+        "anydoor": "bin/anydoor.js"
+    } ,
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "handlebars": "^4.0.10",
+    "yargs": "^8.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xsh6/anydoor.git"
+  },
+  "keywords": [
+    "666"
+  ],
+  "author": "xsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xsh6/anydoor/issues"
+  },
+  "homepage": "https://github.com/xsh6/anydoor#readme"
+}
